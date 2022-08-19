@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Button_Text_Size_Small">24sp</dimen>
+    <dimen name="Button_Text_Size_Big">34sp</dimen>
+    <dimen name="TextView_Text_Size_Small">35sp</dimen>
+    <dimen name="TextView_Text_Size_big">56sp</dimen>
+</resources>
