@@ -1,16 +1,12 @@
 package com.zitiz.calculatorxiaomi
 
-import android.content.Intent
-import android.content.IntentFilter
+
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.ViewTreeObserver
 import android.widget.*
-import androidx.activity.result.contract.ActivityResultContracts
 import com.zitiz.calculatorxiaomi.databinding.ActivityMainBinding
-import net.objecthunter.exp4j.Expression
 import net.objecthunter.exp4j.ExpressionBuilder
-import java.lang.Error
 import java.lang.Exception
 
 class MainActivity : AppCompatActivity() {
